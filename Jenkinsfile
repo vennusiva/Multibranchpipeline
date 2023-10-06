@@ -11,7 +11,7 @@ pipeline
                 {
                     try
                     {
-                      git 'https://github.com/vennusiva/Maven.git'
+                      git 'https://github.com/vennusiva/Multibranchpipeline.git'
                     }
                     catch(Exception e1)
                     {
